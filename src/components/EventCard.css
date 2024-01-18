@@ -1,0 +1,13 @@
+.buttons {
+    width:50%;
+    margin: 0 auto;
+
+
+}
+
+.action_btn {
+    padding: 4%;
+    display: inline-block;
+    width: calc(50% - 4px);
+    margin: 0 auto;
+}

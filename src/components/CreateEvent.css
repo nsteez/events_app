@@ -1,0 +1,32 @@
+.c-font {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+Form {
+    margin: 3rem auto 0;
+    width: 24rem;
+}
+
+Input {
+    margin-bottom: .75rem;
+    /* padding:0 0.1rem; */
+    width: inherit;
+    height: 2rem;
+    color: black;
+    border: none;
+}
+textarea {
+    width: inherit;
+    height: 7rem;
+}
+.btn-xl{
+    background: #6e457e;
+    width: inherit;
+
+}
+.s-style{
+    width:inherit;
+}
